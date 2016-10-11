@@ -1,0 +1,27 @@
+・逆強化学習
+————櫻井先輩の研究での参考文献------
+——・Tossou, Aristide CY, and Christos Dimitrakakis. "Probabilistic inverse reinforcement learning in unknown environments." arXiv preprint arXiv:1307.3785 (2013).
+
+——・Neu, Gergely, and Csaba Szepesvári. "Apprenticeship learning using inverse reinforcement learning and gradient methods." arXiv preprint arXiv:1206.5264(2012)
+
+——・Russell, Stuart. "Learning agents for uncertain environments." Proceedings of the eleventh annual conference on Computational learning theory. ACM, 1998.
+
+——・
+----その他-----
+——・Boularias, Abdeslam, Jens Kober, and Jan Peters. "Relative Entropy Inverse Reinforcement Learning." AISTATS. 2011.
+
+
+
+.強化学習
+-----強化学習論文読み会関係----
+——・Chentanez, Nuttapong, Andrew G. Barto, and Satinder P. Singh. "Intrinsically motivated reinforcement learning." Advances in neural information processing systems. 2004.
+
+——・BARTO, Andrew G.; SINGH, Satinder; CHENTANEZ, Nuttapong. Intrinsically motivated learning of hierarchical collections of skills. In: Proc. 3rd Int. Conf. Development Learn. 2004. p. 112-119.
+
+——・Sutton, Richard S., Doina Precup, and Satinder Singh. "Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning."Artificial intelligence 112.1 (1999): 181-211.
+
+----その他----
+——・Doll, Bradley B., Dylan A. Simon, and Nathaniel D. Daw. "The ubiquity of model-based reinforcement learning." Current opinion in neurobiology 22.6 (2012): 1075-1081.
+
+
+——・
